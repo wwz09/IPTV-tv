@@ -1,5 +1,5 @@
 更新时间,#genre#
-20250211 07:50:19,url
+20250212 07:50:19,url
 
 
 freetv_other,#genre#
@@ -687,8 +687,6 @@ cgtn,https://stream1.freetv.fun/cgtn-39.m3u8
 求索纪录,https://stream1.freetv.fun/qiu-suo-ji-lu-13.m3u8
 求索纪录,https://stream1.freetv.fun/qiu-suo-ji-lu-14.m3u8
 求索纪录,https://stream1.freetv.fun/qiu-suo-ji-lu-16.ctv
-求索纪录,https://stream1.freetv.fun/qiu-suo-ji-lu-17.m3u8
-求索纪录,https://stream1.freetv.fun/qiu-suo-ji-lu-18.m3u8
 求索纪录,https://stream1.freetv.fun/qiu-suo-ji-lu-3.m3u8
 求索纪录,https://stream1.freetv.fun/qiu-suo-ji-lu-4.m3u8
 求索纪录,https://stream1.freetv.fun/qiu-suo-ji-lu-5.m3u8
