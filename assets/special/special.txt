@@ -3906,28 +3906,14 @@ mft.hk,https://wbug.xyz/videos/e79553fab041f03efee560b53f8d7dc84c76bb2b/g.m3u8?h
 Love Nature 4K「自然」,https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 Loupe 4K「视觉」,https://d2dw21aq0j0l5c.cloudfront.net/playlist_3840x2160.m3u8
 上视东方影视,https://tv.iill.top/migu/shys
-「NBA」07:00 -季后赛-步行者VS骑士-王冠证 张兆旭 魏欣怡,https://tv.iill.top/NBA/2ccz36
-「NBA」07:00 -季后赛-步行者VS骑士-英文原声,https://tv.iill.top/NBA/pAQXk7
-「NBA」09:30 -季后赛-勇士VS森林狼-连睿 周鹏 李根,https://tv.iill.top/NBA/Md8oNn
-「NBA」09:30 -季后赛-勇士VS森林狼-拜月宁,https://tv.iill.top/NBA/zJVom2
-「NBA」09:30 -季后赛-勇士VS森林狼-邢晨,https://tv.iill.top/NBA/xmZUYt
-「NBA」09:30 -季后赛-勇士VS森林狼-莫俊祺,https://tv.iill.top/NBA/e3ckVM
-「NBA」09:30 -季后赛-勇士VS森林狼-洪荒,https://tv.iill.top/NBA/cU8NFv
-「NBA」09:30 -季后赛-勇士VS森林狼-英文原声,https://tv.iill.top/NBA/PlHEIW
-「中乙」15:00 -中乙联赛-北京理工vs海门珂缔缘-解说,https://tv.iill.top/Migu/yUGYKb
-「中乙」15:00 -中乙联赛-泰安天贶vs山西崇德荣海-解说,https://tv.iill.top/Migu/EsyLoR
-「中乙」16:00 -中乙联赛-赣州瑞狮vs广西恒宸-解说,https://tv.iill.top/Migu/7KIQva
-「中乙」16:00 -中乙联赛-杭州临平吴越vs山东泰山B队-解说,https://tv.iill.top/Migu/yvmB2a
-「LPL」16:30 -NIP vs WBG-NIP vs WBG-官方解说,https://tv.iill.top/Migu/VfosYj
-「WTA」17:00 -WTA罗马站第二日-WTA罗马站第二日-清流播出,https://tv.iill.top/Migu/cZwR3t
-「中乙」19:00 -中乙联赛-兰州陇原竞技vs江西庐山-解说,https://tv.iill.top/Migu/2ty4HL
-「中乙」19:30 -中乙联赛-温州俱乐部中胤vs广东铭途-解说,https://tv.iill.top/Migu/klAF90
-「CBA」19:35 -总决赛-浙江方兴渡vs北京北汽-杨健 杨鸣 潘江,https://tv.iill.top/Migu/DnLq74
-「CBA」19:35 -总决赛-浙江方兴渡vs北京北汽-庄宁宇 陈正昊,https://tv.iill.top/Migu/jIyaV5
-「CBA」19:35 -总决赛-浙江方兴渡vs北京北汽-郭知昊,https://tv.iill.top/Migu/2plDal
-「CBA」19:35 -总决赛-浙江方兴渡vs北京北汽-刘芳宇,https://tv.iill.top/Migu/UgANG7
-「CBA」19:35 -总决赛-浙江方兴渡vs北京北汽-现场原声,https://tv.iill.top/Migu/Nnv5Wx
-「LPL」20:00 -AL vs BLG-AL vs BLG-官方解说,https://tv.iill.top/Migu/1zL5m6
+「NBA」07:00 -季后赛-尼克斯VS凯尔特人-蔡凯臣 刘铁 秋童,https://tv.iill.top/NBA/irEGPT
+「NBA」07:00 -季后赛-尼克斯VS凯尔特人-英文原声,https://tv.iill.top/NBA/O5O8ly
+「NBA」09:30 -季后赛-掘金VS雷霆-王晓晨 孔德昕 闫宇峰,https://tv.iill.top/NBA/ezhJoJ
+「NBA」09:30 -季后赛-掘金VS雷霆-英文原声,https://tv.iill.top/NBA/RKzrTp
+「斯诺克」02:00 -斯诺克元老世锦赛Day1：菲格雷多、卡纳万出战-菲格雷多、卡纳万出战-清流播出,https://tv.iill.top/Migu/ApApmd
+「LPL」16:30 -TT vs FPX-TT vs FPX-官方解说,https://tv.iill.top/Migu/3ejB9P
+「WTA」17:00 -WTA罗马站第三日-WTA罗马站第三日-清流播出,https://tv.iill.top/Migu/V36L4o
+「LPL」20:00 -TES vs NIP-TES vs NIP-官方解说,https://tv.iill.top/Migu/CYlpO4
 鳳凰衛視·中文「限UA」,https://tv.iill.top/phenix/fhzw
 鳳凰衛視·資訊「限UA」,https://tv.iill.top/phenix/fhzx
 鳳凰衛視·香港「限UA」,https://tv.iill.top/phenix/fhhk
